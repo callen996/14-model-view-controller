@@ -47,7 +47,7 @@ To start the process, go to the deployed site [here](https://arcane-shore-27269.
 
 Then create an account or view the first few blogs and comments.  
 
-![An example blog:](assets/images/tech_blog.png)
+
 
 ## License
 
